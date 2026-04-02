@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+langchain
+langchain_core
+langchain_chroma
+langchain_community
+langchain_text_splitters
